@@ -1,12 +1,14 @@
 format: jb-book
 root: intro.md
 
-parts:
-  - caption: Contents
-    chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+chapters:
+- file: quarters
+  sections:
+  - file: Q1
+  - file: Q2
+  - file: Q3
+  - file: Q4
+  - file: Q5
+  - file: Q6
+  - file: Q7
+  - file: Q8

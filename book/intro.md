@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# P-RE-CONNECTions
 
-_Write book intro here. This is the first page the student will see when opening the url._
+This graph shows the connections for all courses:
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+<iframe allow="fullscreen" style="width: 100%!important; height: 800px;" src="https://prime-applets.ewi.tudelft.nl/graph/TVAN W/courses_all?view=all" allowfullscreen></iframe>
